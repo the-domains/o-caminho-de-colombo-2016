@@ -1,16 +1,28 @@
-typography_spectrum: 0.9686848069541156
+title: O caminho de Colombo
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.00820257
   brandStrength: 0.3719838811084628
-  lightness: 0.04353945585899055
-  saturation: 0.00820257025770843
-  rhythmicContrast: 0.7492614258080721
+  lightness: 0.537594
   brandColors:
     - '#468966'
     - '#FFF0A5'
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
+  rhythmicContrast: 0.7492614
+typography_spectrum: 0.9686848069541156
+description: Do se nascimento em Genova aos restos em Sevilla
 layout_spectrum: 0.6727009287569672
 name: O Caminho de Colombo 2016
-title: O caminho de Colombo
-description: Do se nascimento em Genova aos restos em Sevilla

@@ -1,12 +1,15 @@
 ---
-starred: false
-title: ''
-datePublished: '2016-08-03T14:03:49.456Z'
-dateModified: null
-author: []
+datePublished: '2016-09-03T12:15:07.285Z'
+sourcePath: _posts/2016-08-03-madrid-dos-madrilenhos.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba556e63-6bf8-4b12-9994-8a8073e8ce10.jpg
-sourcePath: _posts/2016-08-03-madrid-dos-madrilenhos.md
+author: []
+via: {}
+dateModified: '2016-09-03T12:15:06.570Z'
+title: Madrid dos Madrilenhos
+publisher: {}
+description: 'Dia 3: Passeando pela nossa Madrid'
+starred: false
 inFeed: true
 hasPage: false
 inNav: false

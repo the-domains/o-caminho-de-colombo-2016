@@ -4,8 +4,15 @@
         <description><![CDATA[O caminho de Colombo]]></description>
         <link>https://thegrid.ai/o-caminho-de-colombo-2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 03 Sep 2016 12:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2016 12:12:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/o-caminho-de-colombo-2016/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Arte comanda o segundo dia]]></title>
+            <description><![CDATA[<article><h1>Arte comanda o segundo dia</h1><p>Dia 2: O dia da arte</p></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/90895d5e-7db5-4999-b86d-c58f34577ac4.jpg</link>
+            <guid isPermaLink="false">be3afa5c-c285-4ac6-baf5-7600775d6181</guid>
+            <pubDate>Sat, 03 Sep 2016 12:12:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chegada em Madrid]]></title>
             <description><![CDATA[<article><h1>Chegada em Madrid</h1><p>Dia 1: 30/07/16 - O dia do teatro “indio-español”</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8af185fb-4b3f-4c2a-a572-62a7134ee143.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba556e63-6bf8-4b12-9994-8a8073e8ce10.jpg</link>
             <guid isPermaLink="false">beaa8f9a-fe82-4021-a50a-09ab28965b28</guid>
             <pubDate>Wed, 03 Aug 2016 14:03:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arte comanda o segundo dia]]></title>
-            <description><![CDATA[<article><h1>Arte comanda o segundo dia</h1><p>Dia 2: O dia da arte</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90895d5e-7db5-4999-b86d-c58f34577ac4.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/90895d5e-7db5-4999-b86d-c58f34577ac4.jpg</link>
-            <guid isPermaLink="false">be3afa5c-c285-4ac6-baf5-7600775d6181</guid>
-            <pubDate>Tue, 02 Aug 2016 18:01:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

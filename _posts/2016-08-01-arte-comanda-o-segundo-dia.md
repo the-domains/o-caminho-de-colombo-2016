@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-03T12:12:10.195Z'
+datePublished: '2016-09-03T12:14:24.020Z'
 sourcePath: _posts/2016-08-01-arte-comanda-o-segundo-dia.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/90895d5e-7db5-4999-b86d-c58f34577ac4.jpg
 author: []
 via: {}
-dateModified: '2016-09-03T12:12:09.398Z'
+dateModified: '2016-09-03T12:14:23.201Z'
 title: Arte comanda o segundo dia
 publisher: {}
 description: 'Dia 2: O dia da arte'
@@ -16,6 +16,8 @@ inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af413bb2-59a4-4bbd-80cf-6668e76ac3f4.jpg)
+
 # Arte comanda o segundo dia
 
 Dia 2: O dia da arte

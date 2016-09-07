@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-03T12:14:24.020Z'
+datePublished: '2016-09-03T12:16:25.132Z'
 sourcePath: _posts/2016-08-01-arte-comanda-o-segundo-dia.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/90895d5e-7db5-4999-b86d-c58f34577ac4.jpg
 author: []
 via: {}
-dateModified: '2016-09-03T12:14:23.201Z'
+dateModified: '2016-09-03T12:16:24.462Z'
 title: Arte comanda o segundo dia
 publisher: {}
-description: 'Dia 2: O dia da arte'
+description: 'Dia 2: 31/07/16 - O dia da arte'
 starred: false
 inFeed: true
 hasPage: false
@@ -20,7 +20,7 @@ _type: MediaObject
 
 # Arte comanda o segundo dia
 
-Dia 2: O dia da arte
+Dia 2: 31/07/16 - O dia da arte
 
 Nosso segundo dia começou um pouco mais tarde e foi recheado de opções artísticas.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90895d5e-7db5-4999-b86d-c58f34577ac4.jpg)
